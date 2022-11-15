@@ -1,0 +1,50 @@
+body{
+            display:flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            max-width:450px;
+            margin-inline:auto;
+/*            min-height:100vh;*/
+        }
+        
+        textarea{
+            width:100%;
+            height:50vh;
+            margin-inline:auto;
+            border:none;
+            outline: none;
+            text-align: center;
+            font-size:3rem;
+            background-color:inherit;
+            color:white;
+            direction: ltr;
+            padding:300px 0 0;
+            letter-spacing:0.5px;
+            word-spacing: 1px;
+        }
+        
+        ::placeholder{
+            color:white;
+            opacity:0.5;
+            width:100%;
+            letter-spacing:0.5px;
+            white-space: nowrap;
+        }
+        
+        
+        button{
+            width:150px;
+            height:50px;
+            font-size:1.3rem;
+            border:none;
+            border-radius: 10px;
+        }
+        
+        .btn{
+            display:flex;
+            width:100%;
+            align-items:center;
+            justify-content: space-between;
+        }
+        
