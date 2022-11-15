@@ -9,7 +9,7 @@ body{
         }
         
         textarea{
-            width:100%;
+            width:90%;
             height:50vh;
             margin-inline:auto;
             border:none;
@@ -19,8 +19,7 @@ body{
             background-color:inherit;
             color:white;
             direction: ltr;
-            padding:300px 0 0;
-            letter-spacing:0.5px;
+            padding:215px 0 0;
             word-spacing: 1px;
             flex-grow:2fr;
             line-height:1.5;
