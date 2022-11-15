@@ -23,6 +23,7 @@ body{
             letter-spacing:0.5px;
             word-spacing: 1px;
             flex-grow:2fr;
+            line-height:1.5;
         }
         
         ::placeholder{
